@@ -5,7 +5,7 @@
 After I looked at this website it had information about sexual transmitted diseases and tells a person or the person giving treatment on what they should do and other links.
 
 * The second website I looked was https://www.nccn.org/guidelines/nccn-mobile-app
-This helps people find out the dangers of specific diseases and the risks but the issue is that in the first page there is not enough information about the website.
+This helps people find out the dangers of specific diseases and the risks but the issue is that in the first page there is not enough information about the website.[ **The context isn't enought** ] ( AppAboutChemist.png )
 
 ## When looking into apps:
 For some reason I wasn't able to access apps so I wasn't able to explore it 
